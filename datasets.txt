@@ -1,0 +1,71 @@
+https://www.kaggle.com/datasets
+
+https://www.altexsoft.com/blog/datascience/best-public-machine-learning-datasets/
+
+https://www.v7labs.com/blog/best-free-datasets-for-machine-learning#economics
+
+https://archive.ics.uci.edu/ml/datasets.php
+
+https://data.world/datasets/machine-learning
+
+https://datahub.io/collections
+
+https://data.world/community/open-community/data-partners/
+
+https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS
+
+https://data.world/search?q=type%3Adataset&type=resourc
+Velocity Python and Data Science Class-19 Mar 22
+
+
+
+loan application status,loan repayment default,credit card default or fraud,Hotel Booking Demand from
+ Kaggle,Home Loan Approaval Classification finance Domain,HEALTH INSURANCE ,Customers Churn Prediction
+ML Model,Term Deposit Prediction Model,medical isurance cross sell
+ prediction,Health Insurance Lead Prediction,Decision making in the selection 
+and cultivation of crops for a specific piece of land and season,Auto-sales domain : Used vehicle's price prediction. Kaggle dataset,
+Velocity Python and Data Science Class-19 Mar 22
+
+
+
+
+SQL
+ranked
+
+
+
+
+https://www.kaggle.com/datasets
+
+https://www.altexsoft.com/blog/datascience/best-public-machine-learning-datasets/
+
+https://www.v7labs.com/blog/best-free-datasets-for-machine-learning#economics
+
+https://archive.ics.uci.edu/ml/datasets.php
+
+https://data.world/datasets/machine-learning
+
+https://datahub.io/collections
+
+https://data.world/community/open-community/data-partners/
+
+https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS
+
+https://data.world/search?q=type%3Adataset&type=resourc
+Hotel Booking Prediction:
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?datasetId=511638&sortBy=voteCount
+https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
+Forecasts for Product Demand
+https://www.kaggle.com/datasets/felixzhao/productdemandforecasting
+mobile bank money transfer fraud detection
+https://www.kaggle.com/datasets/ealaxi/paysim1
+Health Insurance Cross Sell Prediction
+https://www.kaggle.com/datasets/anmolkumar/health-insurance-cr
+https://www.springboard.com/blog/data-science/machine-learning-projects/#h1    -tips for selecting a machine learning project
+Rohit Ravindra Kamble9:59 AM
+loan application status,loan repayment default,credit card default or fraud,Hotel Booking Demand from
+ Kaggle,Home Loan Approaval Classification finance Domain,HEALTH INSURANCE ,Customers Churn Prediction
+ML Model,Term Deposit Prediction Model,medical isurance cross sell
+ prediction,Health Insurance Lead Prediction,Decision making in the selection 
+and cultivation of crops for a specific piece of land and season,Auto-sales domain : Used vehicle's price prediction. Kaggle dataset,
+Akash Gaw
